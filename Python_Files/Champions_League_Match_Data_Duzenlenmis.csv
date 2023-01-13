@@ -1,0 +1,745 @@
+﻿SEASON;Home;Away;HOME_TEAM;AWAY_TEAM;STADIUM;ATTENDANCE;HOME_TEAM_SCORE;AWAY_TEAM_SCORE;Status
+2021-2022;1000000000;498950000;Manchester City;RB Leipzig;Etihad Stadium;38062;6;3;Galibiyet
+2021-2022;200500000;889550000;Club Brugge KV;Paris Saint-Germain;Jan Breydel Stadion;27546;1;1;Beraberlik
+2021-2022;889550000;1000000000;Paris Saint-Germain;Manchester City;Parc des Princes;37350;2;0;Galibiyet
+2021-2022;498950000;200500000;RB Leipzig;Club Brugge KV;Red Bull Arena;23500;1;2;Mağlubiyet
+2021-2022;200500000;1000000000;Club Brugge KV;Manchester City;Jan Breydel Stadion;24915;1;5;Mağlubiyet
+2021-2022;889550000;498950000;Paris Saint-Germain;RB Leipzig;Parc des Princes;47359;3;2;Galibiyet
+2021-2022;498950000;889550000;RB Leipzig;Paris Saint-Germain;Red Bull Arena;39794;2;2;Beraberlik
+2021-2022;1000000000;200500000;Manchester City;Club Brugge KV;Etihad Stadium;50228;4;1;Galibiyet
+2021-2022;1000000000;889550000;Manchester City;Paris Saint-Germain;Etihad Stadium;52030;2;1;Galibiyet
+2021-2022;200500000;498950000;Club Brugge KV;RB Leipzig;Jan Breydel Stadion;24072;0;5;Mağlubiyet
+2021-2022;498950000;1000000000;RB Leipzig;Manchester City;Red Bull Arena;0;2;1;Galibiyet
+2021-2022;889550000;200500000;Paris Saint-Germain;Club Brugge KV;Parc des Princes;47492;4;1;Galibiyet
+2021-2022;661800000;403580000;Atlético Madrid;FC Porto;Wanda Metropolitano;40098;0;0;Beraberlik
+2021-2022;918900000;546950000;Liverpool FC;AC Milan;Anfield;51445;3;2;Galibiyet
+2021-2022;403580000;918900000;FC Porto;Liverpool FC;Estádio do Dragão;23520;1;5;Mağlubiyet
+2021-2022;546950000;661800000;AC Milan;Atlético Madrid;Giuseppe Meazza;35374;1;2;Mağlubiyet
+2021-2022;661800000;918900000;Atlético Madrid;Liverpool FC;Wanda Metropolitano;60725;2;3;Mağlubiyet
+2021-2022;403580000;546950000;FC Porto;AC Milan;Estádio do Dragão;32130;1;0;Galibiyet
+2021-2022;546950000;403580000;AC Milan;FC Porto;Giuseppe Meazza;39675;1;1;Beraberlik
+2021-2022;918900000;661800000;Liverpool FC;Atlético Madrid;Anfield;51347;2;0;Galibiyet
+2021-2022;918900000;403580000;Liverpool FC;FC Porto;Anfield;52209;2;0;Galibiyet
+2021-2022;661800000;546950000;Atlético Madrid;AC Milan;Wanda Metropolitano;61019;0;1;Mağlubiyet
+2021-2022;403580000;661800000;FC Porto;Atlético Madrid;Estádio do Dragão;38830;1;3;Mağlubiyet
+2021-2022;546950000;918900000;AC Milan;Liverpool FC;Giuseppe Meazza;56237;1;2;Mağlubiyet
+2021-2022;101530000;558980000;Beşiktaş;Borussia Dortmund;Vodafone Park;22445;1;2;Mağlubiyet
+2021-2022;337730000;386050000;Sporting CP;AFC Ajax;Estádio José Alvalade;20382;1;5;Mağlubiyet
+2021-2022;386050000;101530000;AFC Ajax;Beşiktaş;Johan Cruijff ArenA;52628;2;0;Galibiyet
+2021-2022;558980000;337730000;Borussia Dortmund;Sporting CP;Signal Iduna Park;25000;1;0;Galibiyet
+2021-2022;101530000;337730000;Beşiktaş;Sporting CP;Vodafone Park;22936;1;4;Mağlubiyet
+2021-2022;386050000;558980000;AFC Ajax;Borussia Dortmund;Johan Cruijff ArenA;54029;4;0;Galibiyet
+2021-2022;558980000;386050000;Borussia Dortmund;AFC Ajax;Signal Iduna Park;54820;1;3;Mağlubiyet
+2021-2022;337730000;101530000;Sporting CP;Beşiktaş;Estádio José Alvalade;40835;4;0;Galibiyet
+2021-2022;101530000;386050000;Beşiktaş;AFC Ajax;Vodafone Park;11712;1;2;Mağlubiyet
+2021-2022;337730000;558980000;Sporting CP;Borussia Dortmund;Estádio José Alvalade;41341;3;1;Galibiyet
+2021-2022;386050000;337730000;AFC Ajax;Sporting CP;Johan Cruijff ArenA;0;4;2;Galibiyet
+2021-2022;558980000;101530000;Borussia Dortmund;Beşiktaş;Signal Iduna Park;15000;5;0;Galibiyet
+2021-2022;30630000;208000000;FC Sheriff;Shakhtar Donetsk;Sheriff Stadium;5205;2;0;Galibiyet
+2021-2022;558550000;770750000;Inter;Real Madrid;Giuseppe Meazza;37082;0;1;Mağlubiyet
+2021-2022;208000000;558550000;Shakhtar Donetsk;Inter;Olimpiyskyi;26170;0;0;Beraberlik
+2021-2022;770750000;30630000;Real Madrid;FC Sheriff;Santiago Bernabéu;24522;1;2;Mağlubiyet
+2021-2022;208000000;770750000;Shakhtar Donetsk;Real Madrid;Olimpiyskyi;34037;0;5;Mağlubiyet
+2021-2022;558550000;30630000;Inter;FC Sheriff;Giuseppe Meazza;43305;3;1;Galibiyet
+2021-2022;770750000;208000000;Real Madrid;Shakhtar Donetsk;Santiago Bernabéu;38105;2;1;Galibiyet
+2021-2022;30630000;558550000;FC Sheriff;Inter;Sheriff Stadium;5930;1;3;Mağlubiyet
+2021-2022;558550000;208000000;Inter;Shakhtar Donetsk;Giuseppe Meazza;46225;2;0;Galibiyet
+2021-2022;30630000;770750000;FC Sheriff;Real Madrid;Sheriff Stadium;5932;0;3;Mağlubiyet
+2021-2022;770750000;558550000;Real Madrid;Inter;Santiago Bernabéu;46887;2;0;Galibiyet
+2021-2022;208000000;30630000;Shakhtar Donetsk;FC Sheriff;Olimpiyskyi;6841;1;1;Beraberlik
+2021-2022;735600000;790300000;FC Barcelona;Bayern München;Spotify Camp Nou;39737;0;3;Mağlubiyet
+2021-2022;144400000;310180000;Dinamo Kiev;SL Benfica;Olimpiyskyi;21657;0;0;Beraberlik
+2021-2022;310180000;735600000;SL Benfica;FC Barcelona;Estádio da Luz;29454;3;0;Galibiyet
+2021-2022;790300000;144400000;Bayern München;Dinamo Kiev;Allianz Arena;25000;5;0;Galibiyet
+2021-2022;735600000;144400000;FC Barcelona;Dinamo Kiev;Spotify Camp Nou;45968;1;0;Galibiyet
+2021-2022;310180000;790300000;SL Benfica;Bayern München;Estádio da Luz;50000;0;4;Mağlubiyet
+2021-2022;790300000;310180000;Bayern München;SL Benfica;Allianz Arena;50000;5;2;Galibiyet
+2021-2022;144400000;735600000;Dinamo Kiev;FC Barcelona;Olimpiyskyi;31378;0;1;Mağlubiyet
+2021-2022;144400000;790300000;Dinamo Kiev;Bayern München;Olimpiyskyi;28732;1;2;Mağlubiyet
+2021-2022;735600000;310180000;FC Barcelona;SL Benfica;Spotify Camp Nou;49572;0;0;Beraberlik
+2021-2022;790300000;735600000;Bayern München;FC Barcelona;Allianz Arena;0;3;0;Galibiyet
+2021-2022;310180000;144400000;SL Benfica;Dinamo Kiev;Estádio da Luz;37000;2;0;Galibiyet
+2021-2022;74980000;769150000;BSC Young Boys;Manchester United;Stadion Wankdorf;31120;2;1;Galibiyet
+2021-2022;408900000;398750000;Villarreal CF;Atalanta;Estadio de la Cerámica;12916;2;2;Beraberlik
+2021-2022;398750000;74980000;Atalanta;BSC Young Boys;Gewiss Stadium;8536;1;0;Galibiyet
+2021-2022;769150000;408900000;Manchester United;Villarreal CF;Old Trafford;73130;2;1;Galibiyet
+2021-2022;769150000;398750000;Manchester United;Atalanta;Old Trafford;72279;3;2;Galibiyet
+2021-2022;74980000;408900000;BSC Young Boys;Villarreal CF;Stadion Wankdorf;27398;1;4;Mağlubiyet
+2021-2022;398750000;769150000;Atalanta;Manchester United;Gewiss Stadium;14443;2;2;Beraberlik
+2021-2022;408900000;74980000;Villarreal CF;BSC Young Boys;Estadio de la Cerámica;14890;2;0;Galibiyet
+2021-2022;408900000;769150000;Villarreal CF;Manchester United;Estadio de la Cerámica;20875;0;2;Mağlubiyet
+2021-2022;74980000;398750000;BSC Young Boys;Atalanta;Stadion Wankdorf;31120;3;3;Beraberlik
+2021-2022;769150000;74980000;Manchester United;BSC Young Boys;Old Trafford;73156;1;1;Beraberlik
+2021-2022;398750000;408900000;Atalanta;Villarreal CF;Gewiss Stadium;11690;2;3;Mağlubiyet
+2021-2022;385000000;263300000;Sevilla FC;RB Salzburg;Ramón Sánchez Pizjuán;18373;1;1;Beraberlik
+2021-2022;306880000;269300000;Lille OSC;VfL Wolfsburg;Stade Pierre Mauroy;34314;0;0;Beraberlik
+2021-2022;263300000;306880000;RB Salzburg;Lille OSC;Red Bull Arena;24207;2;1;Galibiyet
+2021-2022;269300000;385000000;VfL Wolfsburg;Sevilla FC;Volkswagen Arena;11733;1;1;Beraberlik
+2021-2022;263300000;269300000;RB Salzburg;VfL Wolfsburg;Red Bull Arena;27500;3;1;Galibiyet
+2021-2022;306880000;385000000;Lille OSC;Sevilla FC;Stade Pierre Mauroy;34362;0;0;Beraberlik
+2021-2022;269300000;263300000;VfL Wolfsburg;RB Salzburg;Volkswagen Arena;16112;2;1;Galibiyet
+2021-2022;385000000;306880000;Sevilla FC;Lille OSC;Ramón Sánchez Pizjuán;29369;1;2;Mağlubiyet
+2021-2022;306880000;263300000;Lille OSC;RB Salzburg;Stade Pierre Mauroy;33573;1;0;Galibiyet
+2021-2022;385000000;269300000;Sevilla FC;VfL Wolfsburg;Ramón Sánchez Pizjuán;28663;2;0;Galibiyet
+2021-2022;263300000;385000000;RB Salzburg;Sevilla FC;Red Bull Arena;0;1;0;Galibiyet
+2021-2022;269300000;306880000;VfL Wolfsburg;Lille OSC;Volkswagen Arena;6544;1;3;Mağlubiyet
+2021-2022;914500000;201150000;Chelsea FC;Zenit St. Petersburg;Stamford Bridge;39252;1;0;Galibiyet
+2021-2022;31780000;642500000;Malmö FF;Juventus;Nya Malmö Stadion;5832;0;3;Mağlubiyet
+2021-2022;201150000;31780000;Zenit St. Petersburg;Malmö FF;Gazprom Arena;15339;4;0;Galibiyet
+2021-2022;642500000;914500000;Juventus;Chelsea FC;Allianz Stadium;19934;1;0;Galibiyet
+2021-2022;201150000;642500000;Zenit St. Petersburg;Juventus;Gazprom Arena;18717;0;1;Mağlubiyet
+2021-2022;914500000;31780000;Chelsea FC;Malmö FF;Stamford Bridge;39095;4;0;Galibiyet
+2021-2022;31780000;914500000;Malmö FF;Chelsea FC;Nya Malmö Stadion;19551;0;1;Mağlubiyet
+2021-2022;642500000;201150000;Juventus;Zenit St. Petersburg;Allianz Stadium;20053;4;2;Galibiyet
+2021-2022;914500000;642500000;Chelsea FC;Juventus;Stamford Bridge;39513;4;0;Galibiyet
+2021-2022;31780000;201150000;Malmö FF;Zenit St. Petersburg;Nya Malmö Stadion;19551;1;1;Beraberlik
+2021-2022;201150000;914500000;Zenit St. Petersburg;Chelsea FC;Gazprom Arena;29349;3;3;Beraberlik
+2021-2022;642500000;31780000;Juventus;Malmö FF;Allianz Stadium;17501;1;0;Galibiyet
+2021-2022;337730000;1000000000;Sporting CP;Manchester City;Estádio José Alvalade;48129;0;5;Mağlubiyet
+2021-2022;889550000;770750000;Paris Saint-Germain;Real Madrid;Parc des Princes;47443;1;0;Galibiyet
+2021-2022;263300000;790300000;RB Salzburg;Bayern München;Red Bull Arena;29520;1;1;Beraberlik
+2021-2022;558550000;918900000;Inter;Liverpool FC;Giuseppe Meazza;37918;0;2;Mağlubiyet
+2021-2022;914500000;306880000;Chelsea FC;Lille OSC;Stamford Bridge;38832;2;0;Galibiyet
+2021-2022;408900000;642500000;Villarreal CF;Juventus;Estadio de la Cerámica;17686;1;1;Beraberlik
+2021-2022;310180000;386050000;SL Benfica;AFC Ajax;Estádio da Luz;54760;2;2;Beraberlik
+2021-2022;661800000;769150000;Atlético Madrid;Manchester United;Wanda Metropolitano;63273;1;1;Beraberlik
+2021-2022;790300000;263300000;Bayern München;RB Salzburg;Allianz Arena;25000;7;1;Galibiyet
+2021-2022;918900000;558550000;Liverpool FC;Inter;Anfield;51747;0;1;Mağlubiyet
+2021-2022;1000000000;337730000;Manchester City;Sporting CP;Etihad Stadium;51213;0;0;Beraberlik
+2021-2022;770750000;889550000;Real Madrid;Paris Saint-Germain;Santiago Bernabéu;59895;3;1;Galibiyet
+2021-2022;386050000;310180000;AFC Ajax;SL Benfica;Johan Cruijff ArenA;54066;0;1;Mağlubiyet
+2021-2022;769150000;661800000;Manchester United;Atlético Madrid;Old Trafford;73008;0;1;Mağlubiyet
+2021-2022;306880000;914500000;Lille OSC;Chelsea FC;Stade Pierre Mauroy;49048;1;2;Mağlubiyet
+2021-2022;642500000;408900000;Juventus;Villarreal CF;Allianz Stadium;30385;0;3;Mağlubiyet
+2021-2022;1000000000;661800000;Manchester City;Atlético Madrid;Etihad Stadium;52018;1;0;Galibiyet
+2021-2022;310180000;918900000;SL Benfica;Liverpool FC;Estádio da Luz;59633;1;3;Mağlubiyet
+2021-2022;914500000;770750000;Chelsea FC;Real Madrid;Stamford Bridge;38689;1;3;Mağlubiyet
+2021-2022;408900000;790300000;Villarreal CF;Bayern München;Estadio de la Cerámica;21626;1;0;Galibiyet
+2021-2022;770750000;914500000;Real Madrid;Chelsea FC;Santiago Bernabéu;59839;2;3;Mağlubiyet
+2021-2022;790300000;408900000;Bayern München;Villarreal CF;Allianz Arena;70000;1;1;Beraberlik
+2021-2022;661800000;1000000000;Atlético Madrid;Manchester City;Wanda Metropolitano;65675;0;0;Beraberlik
+2021-2022;918900000;310180000;Liverpool FC;SL Benfica;Anfield;51373;3;3;Beraberlik
+2021-2022;1000000000;770750000;Manchester City;Real Madrid;Etihad Stadium;55097;4;3;Galibiyet
+2021-2022;918900000;408900000;Liverpool FC;Villarreal CF;Anfield;51586;2;0;Galibiyet
+2021-2022;408900000;918900000;Villarreal CF;Liverpool FC;Estadio de la Cerámica;23665;2;3;Mağlubiyet
+2021-2022;770750000;1000000000;Real Madrid;Manchester City;Santiago Bernabéu;61416;3;1;Galibiyet
+2021-2022;918900000;770750000;Liverpool FC;Real Madrid;Stade de France;0;0;1;Mağlubiyet
+2020-2021;188700000;114580000;RB Salzburg;Lokomotiv Moskva;Red Bull Arena;3000;2;2;Beraberlik
+2020-2021;858230000;773100000;Bayern München;Atlético Madrid;Allianz Arena;0;4;0;Galibiyet
+2020-2021;114580000;858230000;Lokomotiv Moskva;Bayern München;RŽD-Arena;8196;1;2;Mağlubiyet
+2020-2021;773100000;188700000;Atlético Madrid;RB Salzburg;Wanda Metropolitano;0;3;2;Galibiyet
+2020-2021;114580000;773100000;Lokomotiv Moskva;Atlético Madrid;RŽD-Arena;8147;1;1;Beraberlik
+2020-2021;188700000;858230000;RB Salzburg;Bayern München;Red Bull Arena;0;2;6;Mağlubiyet
+2020-2021;773100000;114580000;Atlético Madrid;Lokomotiv Moskva;Wanda Metropolitano;0;0;0;Beraberlik
+2020-2021;858230000;188700000;Bayern München;RB Salzburg;Allianz Arena;0;3;1;Galibiyet
+2020-2021;114580000;188700000;Lokomotiv Moskva;RB Salzburg;RŽD-Arena;6759;1;3;Mağlubiyet
+2020-2021;773100000;858230000;Atlético Madrid;Bayern München;Wanda Metropolitano;0;1;1;Beraberlik
+2020-2021;858230000;114580000;Bayern München;Lokomotiv Moskva;Allianz Arena;0;2;0;Galibiyet
+2020-2021;188700000;773100000;RB Salzburg;Atlético Madrid;Red Bull Arena;0;0;2;Mağlubiyet
+2020-2021;787300000;162500000;Real Madrid;Shakhtar Donetsk;Alfredo Di Stéfano;0;2;3;Mağlubiyet
+2020-2021;663900000;300750000;Inter;Bor. Mönchengladbach;Giuseppe Meazza;1000;2;2;Beraberlik
+2020-2021;162500000;663900000;Shakhtar Donetsk;Inter;Olimpiyskyi;10178;0;0;Beraberlik
+2020-2021;300750000;787300000;Bor. Mönchengladbach;Real Madrid;Borussia-Park;0;2;2;Beraberlik
+2020-2021;162500000;300750000;Shakhtar Donetsk;Bor. Mönchengladbach;Olimpiyskyi;0;0;6;Mağlubiyet
+2020-2021;787300000;663900000;Real Madrid;Inter;Alfredo Di Stéfano;0;3;2;Galibiyet
+2020-2021;300750000;162500000;Bor. Mönchengladbach;Shakhtar Donetsk;Borussia-Park;0;4;0;Galibiyet
+2020-2021;663900000;787300000;Inter;Real Madrid;Giuseppe Meazza;0;0;2;Mağlubiyet
+2020-2021;162500000;787300000;Shakhtar Donetsk;Real Madrid;Olimpiyskyi;0;2;0;Galibiyet
+2020-2021;300750000;663900000;Bor. Mönchengladbach;Inter;Borussia-Park;0;2;3;Mağlubiyet
+2020-2021;663900000;162500000;Inter;Shakhtar Donetsk;Giuseppe Meazza;0;0;0;Beraberlik
+2020-2021;787300000;300750000;Real Madrid;Bor. Mönchengladbach;Alfredo Di Stéfano;0;2;0;Galibiyet
+2020-2021;1004000000;327600000;Manchester City;FC Porto;Etihad Stadium;0;3;1;Galibiyet
+2020-2021;113700000;251400000;Olympiakos Piraeus;Olympique Marseille;Georgios Karaiskakis;0;1;0;Galibiyet
+2020-2021;327600000;113700000;FC Porto;Olympiakos Piraeus;Estádio do Dragão;2450;2;0;Galibiyet
+2020-2021;251400000;1004000000;Olympique Marseille;Manchester City;Vélodrome;0;0;3;Mağlubiyet
+2020-2021;327600000;251400000;FC Porto;Olympique Marseille;Estádio do Dragão;0;3;0;Galibiyet
+2020-2021;1004000000;113700000;Manchester City;Olympiakos Piraeus;Etihad Stadium;0;3;0;Galibiyet
+2020-2021;113700000;1004000000;Olympiakos Piraeus;Manchester City;Georgios Karaiskakis;0;0;1;Mağlubiyet
+2020-2021;251400000;327600000;Olympique Marseille;FC Porto;Vélodrome;0;0;2;Mağlubiyet
+2020-2021;327600000;1004000000;FC Porto;Manchester City;Estádio do Dragão;0;0;0;Beraberlik
+2020-2021;251400000;113700000;Olympique Marseille;Olympiakos Piraeus;Vélodrome;0;2;1;Galibiyet
+2020-2021;1004000000;251400000;Manchester City;Olympique Marseille;Etihad Stadium;1;3;0;Galibiyet
+2020-2021;113700000;327600000;Olympiakos Piraeus;FC Porto;Georgios Karaiskakis;0;0;2;Mağlubiyet
+2020-2021;428100000;969650000;AFC Ajax;Liverpool FC;Johan Cruijff ArenA;0;0;1;Mağlubiyet
+2020-2021;55050000;430000000;FC Midtjylland;Atalanta;MCH Arena;132;0;4;Mağlubiyet
+2020-2021;430000000;428100000;Atalanta;AFC Ajax;Gewiss Stadium;0;2;2;Beraberlik
+2020-2021;969650000;55050000;Liverpool FC;FC Midtjylland;Anfield;0;2;0;Galibiyet
+2020-2021;430000000;969650000;Atalanta;Liverpool FC;Gewiss Stadium;0;0;5;Mağlubiyet
+2020-2021;55050000;428100000;FC Midtjylland;AFC Ajax;MCH Arena;132;1;2;Mağlubiyet
+2020-2021;428100000;55050000;AFC Ajax;FC Midtjylland;Johan Cruijff ArenA;0;3;1;Galibiyet
+2020-2021;969650000;430000000;Liverpool FC;Atalanta;Anfield;0;0;2;Mağlubiyet
+2020-2021;430000000;55050000;Atalanta;FC Midtjylland;Gewiss Stadium;0;1;1;Beraberlik
+2020-2021;969650000;428100000;Liverpool FC;AFC Ajax;Anfield;0;1;0;Galibiyet
+2020-2021;428100000;430000000;AFC Ajax;Atalanta;Johan Cruijff ArenA;0;0;1;Mağlubiyet
+2020-2021;55050000;969650000;FC Midtjylland;Liverpool FC;MCH Arena;0;1;1;Beraberlik
+2020-2021;889200000;418250000;Chelsea FC;Sevilla FC;Stamford Bridge;0;0;0;Beraberlik
+2020-2021;297500000;100280000;Stade Rennes;FK Krasnodar;Roazhon Park;4973;1;1;Beraberlik
+2020-2021;100280000;889200000;FK Krasnodar;Chelsea FC;Krasnodar Stadium;10544;0;4;Mağlubiyet
+2020-2021;418250000;297500000;Sevilla FC;Stade Rennes;Ramón Sánchez Pizjuán;0;1;0;Galibiyet
+2020-2021;889200000;297500000;Chelsea FC;Stade Rennes;Stamford Bridge;0;3;0;Galibiyet
+2020-2021;418250000;100280000;Sevilla FC;FK Krasnodar;Ramón Sánchez Pizjuán;1;3;2;Galibiyet
+2020-2021;297500000;889200000;Stade Rennes;Chelsea FC;Roazhon Park;0;1;2;Mağlubiyet
+2020-2021;100280000;418250000;FK Krasnodar;Sevilla FC;Krasnodar Stadium;10554;1;2;Mağlubiyet
+2020-2021;100280000;297500000;FK Krasnodar;Stade Rennes;Krasnodar Stadium;8747;1;0;Galibiyet
+2020-2021;418250000;889200000;Sevilla FC;Chelsea FC;Ramón Sánchez Pizjuán;0;0;4;Mağlubiyet
+2020-2021;889200000;100280000;Chelsea FC;FK Krasnodar;Stamford Bridge;2000;1;1;Beraberlik
+2020-2021;297500000;418250000;Stade Rennes;Sevilla FC;Roazhon Park;0;1;3;Mağlubiyet
+2020-2021;177650000;170900000;Zenit St. Petersburg;Club Brugge KV;Gazprom Arena;16682;1;2;Mağlubiyet
+2020-2021;326330000;628400000;Lazio Roma;Borussia Dortmund;Olimpico;1000;3;1;Galibiyet
+2020-2021;628400000;177650000;Borussia Dortmund;Zenit St. Petersburg;Signal Iduna Park;0;2;0;Galibiyet
+2020-2021;170900000;326330000;Club Brugge KV;Lazio Roma;Jan Breydel Stadion;0;1;1;Beraberlik
+2020-2021;177650000;326330000;Zenit St. Petersburg;Lazio Roma;Gazprom Arena;0;1;1;Beraberlik
+2020-2021;170900000;628400000;Club Brugge KV;Borussia Dortmund;Jan Breydel Stadion;0;0;3;Mağlubiyet
+2020-2021;628400000;170900000;Borussia Dortmund;Club Brugge KV;Signal Iduna Park;0;3;0;Galibiyet
+2020-2021;326330000;177650000;Lazio Roma;Zenit St. Petersburg;Olimpico;0;3;1;Galibiyet
+2020-2021;628400000;326330000;Borussia Dortmund;Lazio Roma;Signal Iduna Park;0;1;1;Beraberlik
+2020-2021;170900000;177650000;Club Brugge KV;Zenit St. Petersburg;Jan Breydel Stadion;0;3;0;Galibiyet
+2020-2021;177650000;628400000;Zenit St. Petersburg;Borussia Dortmund;Gazprom Arena;10860;1;2;Mağlubiyet
+2020-2021;326330000;170900000;Lazio Roma;Club Brugge KV;Olimpico;0;2;2;Beraberlik
+2020-2021;130700000;633300000;Dinamo Kiev;Juventus;Olimpiyskyi;14850;0;2;Mağlubiyet
+2020-2021;813500000;34010000;FC Barcelona;Ferencvárosi TC;Spotify Camp Nou;0;5;1;Galibiyet
+2020-2021;34010000;130700000;Ferencvárosi TC;Dinamo Kiev;Groupama Aréna;6171;2;2;Beraberlik
+2020-2021;633300000;813500000;Juventus;FC Barcelona;Allianz Stadium;0;0;2;Mağlubiyet
+2020-2021;813500000;130700000;FC Barcelona;Dinamo Kiev;Spotify Camp Nou;0;2;1;Galibiyet
+2020-2021;34010000;633300000;Ferencvárosi TC;Juventus;Puskás Aréna;18531;1;4;Mağlubiyet
+2020-2021;130700000;813500000;Dinamo Kiev;FC Barcelona;Olimpiyskyi;0;0;4;Mağlubiyet
+2020-2021;633300000;34010000;Juventus;Ferencvárosi TC;Allianz Stadium;0;2;1;Galibiyet
+2020-2021;633300000;130700000;Juventus;Dinamo Kiev;Allianz Stadium;0;3;0;Galibiyet
+2020-2021;34010000;813500000;Ferencvárosi TC;FC Barcelona;Groupama Aréna;0;0;3;Mağlubiyet
+2020-2021;130700000;34010000;Dinamo Kiev;Ferencvárosi TC;Olimpiyskyi;0;1;0;Galibiyet
+2020-2021;813500000;633300000;FC Barcelona;Juventus;Spotify Camp Nou;0;0;3;Mağlubiyet
+2020-2021;574950000;69230000;RB Leipzig;İstanbul Başakşehir;Red Bull Arena;999;2;0;Galibiyet
+2020-2021;805000000;770050000;Paris Saint-Germain;Manchester United;Parc des Princes;0;1;2;Mağlubiyet
+2020-2021;69230000;805000000;İstanbul Başakşehir;Paris Saint-Germain;Fatih Terim Stadium;350;0;2;Mağlubiyet
+2020-2021;770050000;574950000;Manchester United;RB Leipzig;Old Trafford;577;5;0;Galibiyet
+2020-2021;69230000;770050000;İstanbul Başakşehir;Manchester United;Fatih Terim Stadium;350;2;1;Galibiyet
+2020-2021;574950000;805000000;RB Leipzig;Paris Saint-Germain;Red Bull Arena;0;2;1;Galibiyet
+2020-2021;770050000;69230000;Manchester United;İstanbul Başakşehir;Old Trafford;545;4;1;Galibiyet
+2020-2021;805000000;574950000;Paris Saint-Germain;RB Leipzig;Parc des Princes;0;1;0;Galibiyet
+2020-2021;69230000;574950000;İstanbul Başakşehir;RB Leipzig;Fatih Terim Stadium;0;3;4;Mağlubiyet
+2020-2021;770050000;805000000;Manchester United;Paris Saint-Germain;Old Trafford;638;1;3;Mağlubiyet
+2020-2021;574950000;770050000;RB Leipzig;Manchester United;Red Bull Arena;0;3;2;Galibiyet
+2020-2021;805000000;69230000;Paris Saint-Germain;İstanbul Başakşehir;Parc des Princes;0;5;1;Galibiyet
+2020-2021;574950000;969650000;RB Leipzig;Liverpool FC;Puskás Aréna;0;0;2;Mağlubiyet
+2020-2021;813500000;805000000;FC Barcelona;Paris Saint-Germain;Spotify Camp Nou;0;1;4;Mağlubiyet
+2020-2021;327600000;633300000;FC Porto;Juventus;Estádio do Dragão;0;2;1;Galibiyet
+2020-2021;418250000;628400000;Sevilla FC;Borussia Dortmund;Ramón Sánchez Pizjuán;0;2;3;Mağlubiyet
+2020-2021;326330000;858230000;Lazio Roma;Bayern München;Olimpico;0;1;4;Mağlubiyet
+2020-2021;773100000;889200000;Atlético Madrid;Chelsea FC;Arena Națională;0;0;1;Mağlubiyet
+2020-2021;300750000;1004000000;Bor. Mönchengladbach;Manchester City;Puskás Aréna;0;0;2;Mağlubiyet
+2020-2021;430000000;787300000;Atalanta;Real Madrid;Gewiss Stadium;0;0;1;Mağlubiyet
+2020-2021;633300000;327600000;Juventus;FC Porto;Allianz Stadium;0;3;2;Galibiyet
+2020-2021;628400000;418250000;Borussia Dortmund;Sevilla FC;Signal Iduna Park;0;2;2;Beraberlik
+2020-2021;969650000;574950000;Liverpool FC;RB Leipzig;Puskás Aréna;0;2;0;Galibiyet
+2020-2021;805000000;813500000;Paris Saint-Germain;FC Barcelona;Parc des Princes;0;1;1;Beraberlik
+2020-2021;1004000000;300750000;Manchester City;Bor. Mönchengladbach;Puskás Aréna;0;2;0;Galibiyet
+2020-2021;787300000;430000000;Real Madrid;Atalanta;Alfredo Di Stéfano;0;3;1;Galibiyet
+2020-2021;858230000;326330000;Bayern München;Lazio Roma;Allianz Arena;0;2;1;Galibiyet
+2020-2021;889200000;773100000;Chelsea FC;Atlético Madrid;Stamford Bridge;0;2;0;Galibiyet
+2020-2021;1004000000;628400000;Manchester City;Borussia Dortmund;Etihad Stadium;0;2;1;Galibiyet
+2020-2021;787300000;969650000;Real Madrid;Liverpool FC;Alfredo Di Stéfano;0;3;1;Galibiyet
+2020-2021;327600000;889200000;FC Porto;Chelsea FC;Ramón Sánchez Pizjuán;0;0;2;Mağlubiyet
+2020-2021;858230000;805000000;Bayern München;Paris Saint-Germain;Allianz Arena;0;2;3;Mağlubiyet
+2020-2021;889200000;327600000;Chelsea FC;FC Porto;Ramón Sánchez Pizjuán;0;0;1;Mağlubiyet
+2020-2021;805000000;858230000;Paris Saint-Germain;Bayern München;Parc des Princes;0;0;1;Mağlubiyet
+2020-2021;628400000;1004000000;Borussia Dortmund;Manchester City;Signal Iduna Park;0;1;2;Mağlubiyet
+2020-2021;969650000;787300000;Liverpool FC;Real Madrid;Anfield;0;0;0;Beraberlik
+2020-2021;787300000;889200000;Real Madrid;Chelsea FC;Alfredo Di Stéfano;0;1;1;Beraberlik
+2020-2021;805000000;1004000000;Paris Saint-Germain;Manchester City;Parc des Princes;0;1;2;Mağlubiyet
+2020-2021;1004000000;805000000;Manchester City;Paris Saint-Germain;Etihad Stadium;0;2;0;Galibiyet
+2020-2021;889200000;787300000;Chelsea FC;Real Madrid;Stamford Bridge;0;2;0;Galibiyet
+2020-2021;1004000000;889200000;Manchester City;Chelsea FC;Estádio do Dragão;14110;0;1;Mağlubiyet
+2019-2020;160730000;105130000;Club Brugge KV;Galatasaray;Jan Breydel Stadion;26616;0;0;Beraberlik
+2019-2020;874150000;913750000;Paris Saint-Germain;Real Madrid;Parc des Princes;46361;3;0;Galibiyet
+2019-2020;913750000;160730000;Real Madrid;Club Brugge KV;Santiago Bernabéu;65112;2;2;Beraberlik
+2019-2020;105130000;874150000;Galatasaray;Paris Saint-Germain;Nef Stadyumu;46532;0;1;Mağlubiyet
+2019-2020;160730000;874150000;Club Brugge KV;Paris Saint-Germain;Jan Breydel Stadion;26946;0;5;Mağlubiyet
+2019-2020;105130000;913750000;Galatasaray;Real Madrid;Nef Stadyumu;48886;0;1;Mağlubiyet
+2019-2020;874150000;160730000;Paris Saint-Germain;Club Brugge KV;Parc des Princes;47418;1;0;Galibiyet
+2019-2020;913750000;105130000;Real Madrid;Galatasaray;Santiago Bernabéu;65492;6;0;Galibiyet
+2019-2020;105130000;160730000;Galatasaray;Club Brugge KV;Nef Stadyumu;34500;1;1;Beraberlik
+2019-2020;913750000;874150000;Real Madrid;Paris Saint-Germain;Santiago Bernabéu;75534;2;2;Beraberlik
+2019-2020;874150000;105130000;Paris Saint-Germain;Galatasaray;Parc des Princes;46509;5;0;Galibiyet
+2019-2020;160730000;913750000;Club Brugge KV;Real Madrid;Jan Breydel Stadion;27308;1;3;Mağlubiyet
+2019-2020;82580000;806800000;Olympiakos Piraeus;Tottenham Hotspur;Georgios Karaiskakis;31001;2;2;Beraberlik
+2019-2020;777330000;61080000;Bayern München;Crvena Zvezda;Allianz Arena;70000;3;0;Galibiyet
+2019-2020;806800000;777330000;Tottenham Hotspur;Bayern München;Tottenham Hotspur Stadium;60127;2;7;Mağlubiyet
+2019-2020;61080000;82580000;Crvena Zvezda;Olympiakos Piraeus;Marakana;43291;3;1;Galibiyet
+2019-2020;806800000;61080000;Tottenham Hotspur;Crvena Zvezda;Tottenham Hotspur Stadium;51743;5;0;Galibiyet
+2019-2020;82580000;777330000;Olympiakos Piraeus;Bayern München;Georgios Karaiskakis;31670;2;3;Mağlubiyet
+2019-2020;777330000;82580000;Bayern München;Olympiakos Piraeus;Allianz Arena;63646;2;0;Galibiyet
+2019-2020;61080000;806800000;Crvena Zvezda;Tottenham Hotspur;Marakana;42381;0;4;Mağlubiyet
+2019-2020;806800000;82580000;Tottenham Hotspur;Olympiakos Piraeus;Tottenham Hotspur Stadium;57024;4;2;Galibiyet
+2019-2020;61080000;777330000;Crvena Zvezda;Bayern München;Marakana;44118;0;6;Mağlubiyet
+2019-2020;777330000;806800000;Bayern München;Tottenham Hotspur;Allianz Arena;66353;3;1;Galibiyet
+2019-2020;82580000;61080000;Olympiakos Piraeus;Crvena Zvezda;Georgios Karaiskakis;31898;1;0;Galibiyet
+2019-2020;128080000;1005000000;Shakhtar Donetsk;Manchester City;Metalist Stadion;36675;0;3;Mağlubiyet
+2019-2020;121700000;291430000;Dinamo Zagreb;Atalanta;Maksimir;28863;4;0;Galibiyet
+2019-2020;291430000;128080000;Atalanta;Shakhtar Donetsk;Giuseppe Meazza;26022;1;2;Mağlubiyet
+2019-2020;1005000000;121700000;Manchester City;Dinamo Zagreb;Etihad Stadium;49046;2;0;Galibiyet
+2019-2020;128080000;121700000;Shakhtar Donetsk;Dinamo Zagreb;Metalist Stadion;21526;2;2;Beraberlik
+2019-2020;1005000000;291430000;Manchester City;Atalanta;Etihad Stadium;49308;5;1;Galibiyet
+2019-2020;121700000;128080000;Dinamo Zagreb;Shakhtar Donetsk;Maksimir;28316;3;3;Beraberlik
+2019-2020;291430000;1005000000;Atalanta;Manchester City;Giuseppe Meazza;34326;1;1;Beraberlik
+2019-2020;1005000000;128080000;Manchester City;Shakhtar Donetsk;Etihad Stadium;52020;1;1;Beraberlik
+2019-2020;291430000;121700000;Atalanta;Dinamo Zagreb;Giuseppe Meazza;28365;2;0;Galibiyet
+2019-2020;128080000;291430000;Shakhtar Donetsk;Atalanta;Metalist Stadion;26536;0;3;Mağlubiyet
+2019-2020;121700000;1005000000;Dinamo Zagreb;Manchester City;Maksimir;29385;1;4;Mağlubiyet
+2019-2020;720150000;661880000;Atlético Madrid;Juventus;Wanda Metropolitano;66283;2;2;Beraberlik
+2019-2020;398950000;113180000;Bayer Leverkusen;Lokomotiv Moskva;BayArena;26592;1;2;Mağlubiyet
+2019-2020;661880000;398950000;Juventus;Bayer Leverkusen;Allianz Stadium;34525;3;0;Galibiyet
+2019-2020;113180000;720150000;Lokomotiv Moskva;Atlético Madrid;RŽD-Arena;27051;0;2;Mağlubiyet
+2019-2020;720150000;398950000;Atlético Madrid;Bayer Leverkusen;Wanda Metropolitano;56776;1;0;Galibiyet
+2019-2020;113180000;661880000;Juventus;Lokomotiv Moskva;Allianz Stadium;38547;2;1;Galibiyet
+2019-2020;113180000;661880000;Lokomotiv Moskva;Juventus;RŽD-Arena;26861;1;2;Mağlubiyet
+2019-2020;398950000;720150000;Bayer Leverkusen;Atlético Madrid;BayArena;28160;2;1;Galibiyet
+2019-2020;113180000;398950000;Lokomotiv Moskva;Bayer Leverkusen;RŽD-Arena;25757;0;2;Mağlubiyet
+2019-2020;661880000;720150000;Juventus;Atlético Madrid;Allianz Stadium;40486;1;0;Galibiyet
+2019-2020;720150000;113180000;Atlético Madrid;Lokomotiv Moskva;Wanda Metropolitano;58426;2;0;Galibiyet
+2019-2020;398950000;661880000;Bayer Leverkusen;Juventus;BayArena;29542;0;2;Mağlubiyet
+2019-2020;548280000;1000000000;SSC Napoli;Liverpool FC;Diego Maradona;38878;2;0;Galibiyet
+2019-2020;204100000;113530000;RB Salzburg;KRC Genk;Red Bull Arena;29520;6;2;Galibiyet
+2019-2020;113530000;548280000;KRC Genk;SSC Napoli;Cegeka Arena;19962;0;0;Beraberlik
+2019-2020;1000000000;204100000;Liverpool FC;RB Salzburg;Anfield;52234;4;3;Galibiyet
+2019-2020;204100000;548280000;RB Salzburg;SSC Napoli;Red Bull Arena;29520;2;3;Mağlubiyet
+2019-2020;113530000;1000000000;KRC Genk;Liverpool FC;Cegeka Arena;19626;1;4;Mağlubiyet
+2019-2020;1000000000;113530000;Liverpool FC;KRC Genk;Anfield;52611;2;1;Galibiyet
+2019-2020;548280000;204100000;SSC Napoli;RB Salzburg;Diego Maradona;32862;1;1;Beraberlik
+2019-2020;1000000000;548280000;Liverpool FC;SSC Napoli;Anfield;52128;1;1;Beraberlik
+2019-2020;113530000;204100000;KRC Genk;RB Salzburg;Cegeka Arena;17284;1;4;Mağlubiyet
+2019-2020;548280000;113530000;SSC Napoli;KRC Genk;Diego Maradona;22265;4;0;Galibiyet
+2019-2020;204100000;1000000000;RB Salzburg;Liverpool FC;Red Bull Arena;29520;0;2;Mağlubiyet
+2019-2020;606050000;62800000;Inter;Slavia Praha;Giuseppe Meazza;50128;1;1;Beraberlik
+2019-2020;654050000;930280000;Borussia Dortmund;FC Barcelona;Signal Iduna Park;66099;0;0;Beraberlik
+2019-2020;62800000;654050000;Slavia Praha;Borussia Dortmund;Sinobo Stadium;19370;0;2;Mağlubiyet
+2019-2020;930280000;606050000;FC Barcelona;Inter;Spotify Camp Nou;86141;2;1;Galibiyet
+2019-2020;606050000;654050000;Inter;Borussia Dortmund;Giuseppe Meazza;65673;2;0;Galibiyet
+2019-2020;62800000;930280000;Slavia Praha;FC Barcelona;Sinobo Stadium;19170;1;2;Mağlubiyet
+2019-2020;930280000;62800000;FC Barcelona;Slavia Praha;Spotify Camp Nou;67023;0;0;Beraberlik
+2019-2020;654050000;606050000;Borussia Dortmund;Inter;Signal Iduna Park;66099;3;2;Galibiyet
+2019-2020;930280000;654050000;FC Barcelona;Borussia Dortmund;Spotify Camp Nou;90071;3;1;Galibiyet
+2019-2020;62800000;606050000;Slavia Praha;Inter;Sinobo Stadium;19370;1;3;Mağlubiyet
+2019-2020;654050000;62800000;Borussia Dortmund;Slavia Praha;Signal Iduna Park;65079;2;1;Galibiyet
+2019-2020;606050000;930280000;Inter;FC Barcelona;Giuseppe Meazza;71818;1;2;Mağlubiyet
+2019-2020;384550000;178600000;Olympique Lyon;Zenit St. Petersburg;Groupama Stadium;47201;1;1;Beraberlik
+2019-2020;312700000;570480000;SL Benfica;RB Leipzig;Estádio da Luz;46460;1;2;Mağlubiyet
+2019-2020;178600000;312700000;Zenit St. Petersburg;SL Benfica;Gazprom Arena;51683;3;1;Galibiyet
+2019-2020;570480000;384550000;RB Leipzig;Olympique Lyon;Red Bull Arena;40194;0;2;Mağlubiyet
+2019-2020;570480000;178600000;RB Leipzig;Zenit St. Petersburg;Red Bull Arena;41058;2;1;Galibiyet
+2019-2020;312700000;384550000;SL Benfica;Olympique Lyon;Estádio da Luz;53035;2;1;Galibiyet
+2019-2020;178600000;570480000;Zenit St. Petersburg;RB Leipzig;Gazprom Arena;50452;0;2;Mağlubiyet
+2019-2020;384550000;312700000;Olympique Lyon;SL Benfica;Groupama Stadium;51077;3;1;Galibiyet
+2019-2020;178600000;384550000;Zenit St. Petersburg;Olympique Lyon;Gazprom Arena;51183;2;0;Galibiyet
+2019-2020;570480000;312700000;RB Leipzig;SL Benfica;Red Bull Arena;38339;2;2;Beraberlik
+2019-2020;312700000;178600000;SL Benfica;Zenit St. Petersburg;Estádio da Luz;40232;3;0;Galibiyet
+2019-2020;384550000;570480000;Olympique Lyon;RB Leipzig;Groupama Stadium;53288;2;2;Beraberlik
+2019-2020;705850000;427800000;Chelsea FC;Valencia CF;Stamford Bridge;39469;0;1;Mağlubiyet
+2019-2020;400400000;247780000;AFC Ajax;Lille OSC;Johan Cruijff ArenA;51441;3;0;Galibiyet
+2019-2020;427800000;400400000;Valencia CF;AFC Ajax;Estadio de Mestalla;44659;0;3;Mağlubiyet
+2019-2020;247780000;705850000;Lille OSC;Chelsea FC;Stade Pierre Mauroy;48523;1;2;Mağlubiyet
+2019-2020;400400000;705850000;AFC Ajax;Chelsea FC;Johan Cruijff ArenA;52482;0;1;Mağlubiyet
+2019-2020;247780000;427800000;Lille OSC;Valencia CF;Stade Pierre Mauroy;47488;1;1;Beraberlik
+2019-2020;705850000;400400000;Chelsea FC;AFC Ajax;Stamford Bridge;39132;4;4;Beraberlik
+2019-2020;427800000;247780000;Valencia CF;Lille OSC;Estadio de Mestalla;38252;4;1;Galibiyet
+2019-2020;427800000;705850000;Valencia CF;Chelsea FC;Estadio de Mestalla;43486;2;2;Beraberlik
+2019-2020;247780000;400400000;Lille OSC;AFC Ajax;Stade Pierre Mauroy;48612;0;2;Mağlubiyet
+2019-2020;705850000;247780000;Chelsea FC;Lille OSC;Stamford Bridge;40016;2;1;Galibiyet
+2019-2020;400400000;427800000;AFC Ajax;Valencia CF;Johan Cruijff ArenA;51931;0;1;Mağlubiyet
+2019-2020;654050000;874150000;Borussia Dortmund;Paris Saint-Germain;Signal Iduna Park;66099;2;1;Galibiyet
+2019-2020;720150000;1000000000;Atlético Madrid;Liverpool FC;Wanda Metropolitano;67443;1;0;Galibiyet
+2019-2020;291430000;427800000;Atalanta;Valencia CF;Giuseppe Meazza;44236;4;1;Galibiyet
+2019-2020;806800000;570480000;Tottenham Hotspur;RB Leipzig;Tottenham Hotspur Stadium;60095;0;1;Mağlubiyet
+2019-2020;705850000;777330000;Chelsea FC;Bayern München;Stamford Bridge;36761;0;3;Mağlubiyet
+2019-2020;548280000;930280000;SSC Napoli;FC Barcelona;Diego Maradona;44388;1;1;Beraberlik
+2019-2020;913750000;1005000000;Real Madrid;Manchester City;Santiago Bernabéu;75615;1;2;Mağlubiyet
+2019-2020;384550000;661880000;Olympique Lyon;Juventus;Groupama Stadium;57335;1;0;Galibiyet
+2019-2020;427800000;291430000;Valencia CF;Atalanta;Estadio de Mestalla;0;3;4;Mağlubiyet
+2019-2020;570480000;806800000;RB Leipzig;Tottenham Hotspur;Red Bull Arena;42146;3;0;Galibiyet
+2019-2020;874150000;654050000;Paris Saint-Germain;Borussia Dortmund;Parc des Princes;0;2;0;Galibiyet
+2019-2020;1000000000;720150000;Liverpool FC;Atlético Madrid;Anfield;45000;2;3;Mağlubiyet
+2019-2020;1005000000;913750000;Manchester City;Real Madrid;Etihad Stadium;0;2;1;Galibiyet
+2019-2020;661880000;384550000;Juventus;Olympique Lyon;Allianz Stadium;0;2;1;Galibiyet
+2019-2020;777330000;705850000;Bayern München;Chelsea FC;Allianz Arena;0;4;1;Galibiyet
+2019-2020;930280000;548280000;FC Barcelona;SSC Napoli;Spotify Camp Nou;0;3;1;Galibiyet
+2019-2020;291430000;874150000;Atalanta;Paris Saint-Germain;Estádio da Luz;0;1;2;Mağlubiyet
+2019-2020;570480000;720150000;RB Leipzig;Atlético Madrid;Estádio José Alvalade;0;2;1;Galibiyet
+2019-2020;930280000;777330000;FC Barcelona;Bayern München;Estádio da Luz;0;2;8;Mağlubiyet
+2019-2020;1005000000;384550000;Manchester City;Olympique Lyon;Estádio José Alvalade;0;1;3;Mağlubiyet
+2019-2020;570480000;874150000;RB Leipzig;Paris Saint-Germain;Estádio da Luz;0;0;3;Mağlubiyet
+2019-2020;384550000;777330000;Olympique Lyon;Bayern München;Estádio José Alvalade;0;0;3;Mağlubiyet
+2019-2020;874150000;777330000;Paris Saint-Germain;Bayern München;Estádio da Luz;0;0;1;Mağlubiyet
+2018-2019;385830000;969700000;AS Monaco;Atlético Madrid;Stade Louis II;10575;1;2;Mağlubiyet
+2018-2019;129650000;643250000;Club Brugge KV;Borussia Dortmund;Jan Breydel Stadion;25181;0;1;Mağlubiyet
+2018-2019;643250000;385830000;Borussia Dortmund;AS Monaco;Signal Iduna Park;66099;3;0;Galibiyet
+2018-2019;969700000;129650000;Atlético Madrid;Club Brugge KV;Wanda Metropolitano;55742;3;1;Galibiyet
+2018-2019;129650000;385830000;Club Brugge KV;AS Monaco;Jan Breydel Stadion;23957;1;1;Beraberlik
+2018-2019;643250000;969700000;Borussia Dortmund;Atlético Madrid;Signal Iduna Park;66099;4;0;Galibiyet
+2018-2019;385830000;129650000;AS Monaco;Club Brugge KV;Stade Louis II;8347;0;4;Mağlubiyet
+2018-2019;969700000;643250000;Atlético Madrid;Borussia Dortmund;Wanda Metropolitano;61023;2;0;Galibiyet
+2018-2019;969700000;385830000;Atlético Madrid;AS Monaco;Wanda Metropolitano;56314;2;0;Galibiyet
+2018-2019;643250000;129650000;Borussia Dortmund;Club Brugge KV;Signal Iduna Park;66099;0;0;Beraberlik
+2018-2019;385830000;643250000;AS Monaco;Borussia Dortmund;Stade Louis II;8731;0;2;Mağlubiyet
+2018-2019;129650000;969700000;Club Brugge KV;Atlético Madrid;Jan Breydel Stadion;25645;0;0;Beraberlik
+2018-2019;1160000000;237850000;FC Barcelona;PSV Eindhoven;Spotify Camp Nou;73462;4;0;Galibiyet
+2018-2019;617930000;898600000;Inter;Tottenham Hotspur;Giuseppe Meazza;64123;2;1;Galibiyet
+2018-2019;898600000;1160000000;Tottenham Hotspur;FC Barcelona;Wembley Stadium;82137;2;4;Mağlubiyet
+2018-2019;237850000;617930000;PSV Eindhoven;Inter;Philips Stadion;34750;1;2;Mağlubiyet
+2018-2019;237850000;898600000;PSV Eindhoven;Tottenham Hotspur;Philips Stadion;35000;2;2;Beraberlik
+2018-2019;1160000000;617930000;FC Barcelona;Inter;Spotify Camp Nou;86290;2;0;Galibiyet
+2018-2019;898600000;237850000;Tottenham Hotspur;PSV Eindhoven;Wembley Stadium;46588;2;1;Galibiyet
+2018-2019;617930000;1160000000;Inter;FC Barcelona;Giuseppe Meazza;70915;1;1;Beraberlik
+2018-2019;237850000;1160000000;PSV Eindhoven;FC Barcelona;Philips Stadion;34600;1;2;Mağlubiyet
+2018-2019;898600000;617930000;Tottenham Hotspur;Inter;Wembley Stadium;57132;1;0;Galibiyet
+2018-2019;1160000000;898600000;FC Barcelona;Tottenham Hotspur;Spotify Camp Nou;69961;1;1;Beraberlik
+2018-2019;617930000;237850000;Inter;PSV Eindhoven;Giuseppe Meazza;62533;1;1;Beraberlik
+2018-2019;1170000000;1001000000;Liverpool FC;Paris Saint-Germain;Anfield;52478;3;2;Galibiyet
+2018-2019;74430000;646800000;Crvena Zvezda;SSC Napoli;Marakana;49112;0;0;Beraberlik
+2018-2019;1001000000;74430000;Paris Saint-Germain;Crvena Zvezda;Parc des Princes;39979;6;1;Galibiyet
+2018-2019;646800000;1170000000;SSC Napoli;Liverpool FC;Diego Maradona;37057;1;0;Galibiyet
+2018-2019;1001000000;646800000;Paris Saint-Germain;SSC Napoli;Parc des Princes;46274;2;2;Beraberlik
+2018-2019;1170000000;74430000;Liverpool FC;Crvena Zvezda;Anfield;53024;4;0;Galibiyet
+2018-2019;74430000;1170000000;Crvena Zvezda;Liverpool FC;Marakana;51318;2;0;Galibiyet
+2018-2019;646800000;1001000000;SSC Napoli;Paris Saint-Germain;Diego Maradona;55489;1;1;Beraberlik
+2018-2019;1001000000;1170000000;Paris Saint-Germain;Liverpool FC;Parc des Princes;46880;2;1;Galibiyet
+2018-2019;646800000;74430000;SSC Napoli;Crvena Zvezda;Diego Maradona;44470;3;1;Galibiyet
+2018-2019;1170000000;646800000;Liverpool FC;SSC Napoli;Anfield;52015;1;0;Galibiyet
+2018-2019;74430000;1001000000;Crvena Zvezda;Paris Saint-Germain;Marakana;48357;1;4;Mağlubiyet
+2018-2019;221300000;347150000;FC Schalke 04;FC Porto;Veltins-Arena;45755;1;1;Beraberlik
+2018-2019;129800000;142550000;Galatasaray;Lokomotiv Moskva;Nef Stadyumu;43542;3;0;Galibiyet
+2018-2019;142550000;221300000;Lokomotiv Moskva;FC Schalke 04;RŽD-Arena;21471;0;1;Mağlubiyet
+2018-2019;347150000;129800000;FC Porto;Galatasaray;Estádio do Dragão;42711;1;0;Galibiyet
+2018-2019;142550000;347150000;Lokomotiv Moskva;FC Porto;RŽD-Arena;16034;1;3;Mağlubiyet
+2018-2019;129800000;221300000;Galatasaray;FC Schalke 04;Nef Stadyumu;46667;0;0;Beraberlik
+2018-2019;347150000;142550000;FC Porto;Lokomotiv Moskva;Estádio do Dragão;34616;4;1;Galibiyet
+2018-2019;221300000;129800000;FC Schalke 04;Galatasaray;Veltins-Arena;54740;2;0;Galibiyet
+2018-2019;142550000;129800000;Lokomotiv Moskva;Galatasaray;RŽD-Arena;14037;2;0;Galibiyet
+2018-2019;347150000;221300000;FC Porto;FC Schalke 04;Estádio do Dragão;41603;3;1;Galibiyet
+2018-2019;221300000;142550000;FC Schalke 04;Lokomotiv Moskva;Veltins-Arena;48883;1;0;Galibiyet
+2018-2019;129800000;347150000;Galatasaray;FC Porto;Nef Stadyumu;33972;2;3;Mağlubiyet
+2018-2019;503150000;41650000;AFC Ajax;AEK Athen;Johan Cruijff ArenA;52285;3;0;Galibiyet
+2018-2019;383000000;784880000;SL Benfica;Bayern München;Estádio da Luz;60274;0;2;Mağlubiyet
+2018-2019;784880000;503150000;Bayern München;AFC Ajax;Allianz Arena;70000;1;1;Beraberlik
+2018-2019;41650000;383000000;AEK Athen;SL Benfica;Spyros Louis (OAKA);31154;2;3;Mağlubiyet
+2018-2019;41650000;784880000;AEK Athen;Bayern München;Spyros Louis (OAKA);61221;0;2;Mağlubiyet
+2018-2019;503150000;383000000;AFC Ajax;SL Benfica;Johan Cruijff ArenA;52489;1;0;Galibiyet
+2018-2019;383000000;503150000;SL Benfica;AFC Ajax;Estádio da Luz;51328;1;1;Beraberlik
+2018-2019;784880000;41650000;Bayern München;AEK Athen;Allianz Arena;70000;2;0;Galibiyet
+2018-2019;41650000;503150000;AEK Athen;AFC Ajax;Spyros Louis (OAKA);25756;0;2;Mağlubiyet
+2018-2019;784880000;383000000;Bayern München;SL Benfica;Allianz Arena;70000;5;1;Galibiyet
+2018-2019;503150000;784880000;AFC Ajax;Bayern München;Johan Cruijff ArenA;52244;3;3;Beraberlik
+2018-2019;383000000;41650000;SL Benfica;AEK Athen;Estádio da Luz;33633;1;0;Galibiyet
+2018-2019;167800000;336250000;Shakhtar Donetsk;1899 Hoffenheim;Metalist Stadion;28336;2;2;Beraberlik
+2018-2019;1200000000;467950000;Manchester City;Olympique Lyon;Etihad Stadium;40111;1;2;Mağlubiyet
+2018-2019;336250000;1020000000;1899 Hoffenheim;Manchester City;PreZero Arena;24851;1;2;Mağlubiyet
+2018-2019;467950000;167800000;Olympique Lyon;Shakhtar Donetsk;Groupama Stadium;0;2;2;Beraberlik
+2018-2019;167800000;1200000000;Shakhtar Donetsk;Manchester City;Metalist Stadion;37106;0;3;Mağlubiyet
+2018-2019;336250000;467950000;1899 Hoffenheim;Olympique Lyon;PreZero Arena;24144;3;3;Beraberlik
+2018-2019;1200000000;167800000;Manchester City;Shakhtar Donetsk;Etihad Stadium;52286;6;0;Galibiyet
+2018-2019;467950000;336250000;Olympique Lyon;1899 Hoffenheim;Groupama Stadium;53850;2;2;Beraberlik
+2018-2019;467950000;1200000000;Olympique Lyon;Manchester City;Groupama Stadium;56039;2;2;Beraberlik
+2018-2019;336250000;167800000;1899 Hoffenheim;Shakhtar Donetsk;PreZero Arena;22920;2;3;Mağlubiyet
+2018-2019;167800000;467950000;Shakhtar Donetsk;Olympique Lyon;Olimpiyskyi;38916;1;1;Beraberlik
+2018-2019;1200000000;336250000;Manchester City;1899 Hoffenheim;Etihad Stadium;50411;2;1;Galibiyet
+2018-2019;896100000;392730000;Real Madrid;AS Roma;Santiago Bernabéu;69251;3;0;Galibiyet
+2018-2019;36450000;164300000;Viktoria Plzeň;CSKA Moskva;Doosan Arena;11312;2;2;Beraberlik
+2018-2019;164300000;896100000;CSKA Moskva;Real Madrid;Luzhniki;71811;1;0;Galibiyet
+2018-2019;392730000;36450000;AS Roma;Viktoria Plzeň;Olimpico;41243;5;0;Galibiyet
+2018-2019;392730000;164300000;AS Roma;CSKA Moskva;Olimpico;46005;3;0;Galibiyet
+2018-2019;896100000;36450000;Real Madrid;Viktoria Plzeň;Santiago Bernabéu;67356;2;1;Galibiyet
+2018-2019;164300000;392730000;CSKA Moskva;AS Roma;Luzhniki;64454;1;2;Mağlubiyet
+2018-2019;36450000;896100000;Viktoria Plzeň;Real Madrid;Doosan Arena;11483;0;5;Mağlubiyet
+2018-2019;164300000;36450000;CSKA Moskva;Viktoria Plzeň;Luzhniki;52892;1;2;Mağlubiyet
+2018-2019;392730000;896100000;AS Roma;Real Madrid;Olimpico;59124;0;2;Mağlubiyet
+2018-2019;896100000;164300000;Real Madrid;CSKA Moskva;Santiago Bernabéu;51636;0;3;Mağlubiyet
+2018-2019;36450000;392730000;Viktoria Plzeň;AS Roma;Doosan Arena;11217;2;1;Galibiyet
+2018-2019;499650000;871050000;Valencia CF;Juventus;Estadio de Mestalla;46067;0;2;Mağlubiyet
+2018-2019;83500000;797600000;BSC Young Boys;Manchester United;Stadion Wankdorf;31120;0;3;Mağlubiyet
+2018-2019;871050000;83500000;Juventus;BSC Young Boys;Allianz Stadium;40961;3;0;Galibiyet
+2018-2019;797600000;499650000;Manchester United;Valencia CF;Old Trafford;73569;0;0;Beraberlik
+2018-2019;83500000;499650000;BSC Young Boys;Valencia CF;Stadion Wankdorf;31120;1;1;Beraberlik
+2018-2019;797600000;871050000;Manchester United;Juventus;Old Trafford;73946;0;1;Mağlubiyet
+2018-2019;499650000;83500000;Valencia CF;BSC Young Boys;Estadio de Mestalla;36480;3;1;Galibiyet
+2018-2019;871050000;797600000;Juventus;Manchester United;Allianz Stadium;41470;1;2;Mağlubiyet
+2018-2019;871050000;499650000;Juventus;Valencia CF;Allianz Stadium;39070;1;0;Galibiyet
+2018-2019;797600000;83500000;Manchester United;BSC Young Boys;Old Trafford;72876;1;0;Galibiyet
+2018-2019;499650000;797600000;Valencia CF;Manchester United;Estadio de Mestalla;36544;2;1;Galibiyet
+2018-2019;83500000;871050000;BSC Young Boys;Juventus;Stadion Wankdorf;30114;2;1;Galibiyet
+2018-2019;797600000;1001000000;Manchester United;Paris Saint-Germain;Old Trafford;74054;0;2;Mağlubiyet
+2018-2019;392730000;347150000;AS Roma;FC Porto;Olimpico;51727;2;1;Galibiyet
+2018-2019;898600000;643250000;Tottenham Hotspur;Borussia Dortmund;Wembley Stadium;71214;3;0;Galibiyet
+2018-2019;503150000;896100000;AFC Ajax;Real Madrid;Johan Cruijff ArenA;52286;1;2;Mağlubiyet
+2018-2019;467950000;1160000000;Olympique Lyon;FC Barcelona;Groupama Stadium;57889;0;0;Beraberlik
+2018-2019;1170000000;784880000;Liverpool FC;Bayern München;Anfield;52250;0;0;Beraberlik
+2018-2019;221300000;1200000000;FC Schalke 04;Manchester City;Veltins-Arena;54417;2;3;Mağlubiyet
+2018-2019;969700000;871050000;Atlético Madrid;Juventus;Wanda Metropolitano;67193;2;0;Galibiyet
+2018-2019;643250000;898600000;Borussia Dortmund;Tottenham Hotspur;Signal Iduna Park;66099;0;1;Mağlubiyet
+2018-2019;896100000;503150000;Real Madrid;AFC Ajax;Santiago Bernabéu;77013;1;4;Mağlubiyet
+2018-2019;1001000000;797600000;Paris Saint-Germain;Manchester United;Parc des Princes;47441;1;3;Mağlubiyet
+2018-2019;347150000;392730000;FC Porto;AS Roma;Estádio do Dragão;49029;3;1;Galibiyet
+2018-2019;1200000000;221300000;Manchester City;FC Schalke 04;Etihad Stadium;51518;7;0;Galibiyet
+2018-2019;871050000;969700000;Juventus;Atlético Madrid;Allianz Stadium;40884;3;0;Galibiyet
+2018-2019;1160000000;467950000;FC Barcelona;Olympique Lyon;Spotify Camp Nou;92346;5;1;Galibiyet
+2018-2019;784880000;1170000000;Bayern München;Liverpool FC;Allianz Arena;68145;1;3;Mağlubiyet
+2018-2019;1170000000;347150000;Liverpool FC;FC Porto;Anfield;52465;2;0;Galibiyet
+2018-2019;898600000;1200000000;Tottenham Hotspur;Manchester City;Tottenham Hotspur Stadium;60044;1;0;Galibiyet
+2018-2019;503150000;871050000;AFC Ajax;Juventus;Johan Cruijff ArenA;50390;1;1;Beraberlik
+2018-2019;797600000;1160000000;Manchester United;FC Barcelona;Old Trafford;74093;0;1;Mağlubiyet
+2018-2019;871050000;503150000;Juventus;AFC Ajax;Allianz Stadium;41445;1;2;Mağlubiyet
+2018-2019;1160000000;797600000;FC Barcelona;Manchester United;Spotify Camp Nou;96708;3;0;Galibiyet
+2018-2019;347150000;1170000000;FC Porto;Liverpool FC;Estádio do Dragão;49117;1;4;Mağlubiyet
+2018-2019;1200000000;898600000;Manchester City;Tottenham Hotspur;Etihad Stadium;53348;4;3;Galibiyet
+2018-2019;898600000;503150000;Tottenham Hotspur;AFC Ajax;Tottenham Hotspur Stadium;60243;0;1;Mağlubiyet
+2018-2019;1160000000;1170000000;FC Barcelona;Liverpool FC;Spotify Camp Nou;98299;3;0;Galibiyet
+2018-2019;1170000000;1160000000;Liverpool FC;FC Barcelona;Anfield;55212;4;0;Galibiyet
+2018-2019;503150000;898600000;AFC Ajax;Tottenham Hotspur;Johan Cruijff ArenA;52641;2;3;Mağlubiyet
+2018-2019;898600000;1170000000;Tottenham Hotspur;Liverpool FC;Wanda Metropolitano;63272;0;2;Mağlubiyet
+2017-2018;849500000;90700000;Manchester United;FC Basel;Old Trafford;73854;3;0;Galibiyet
+2017-2018;229080000;113880000;SL Benfica;CSKA Moskva;Estádio da Luz;38323;1;2;Mağlubiyet
+2017-2018;90700000;229080000;FC Basel;SL Benfica;St. Jakob-Park;34111;5;0;Galibiyet
+2017-2018;113880000;849500000;CSKA Moskva;Manchester United;VEB Arena;29073;1;4;Mağlubiyet
+2017-2018;229080000;849500000;SL Benfica;Manchester United;Estádio da Luz;57684;0;1;Mağlubiyet
+2017-2018;113880000;90700000;CSKA Moskva;FC Basel;VEB Arena;27996;0;2;Mağlubiyet
+2017-2018;849500000;229080000;Manchester United;SL Benfica;Old Trafford;74437;2;0;Galibiyet
+2017-2018;90700000;113880000;FC Basel;CSKA Moskva;St. Jakob-Park;33303;1;2;Mağlubiyet
+2017-2018;113880000;229080000;CSKA Moskva;SL Benfica;VEB Arena;27709;2;0;Galibiyet
+2017-2018;90700000;849500000;FC Basel;Manchester United;St. Jakob-Park;36000;1;0;Galibiyet
+2017-2018;229080000;90700000;SL Benfica;FC Basel;Estádio da Luz;22470;0;2;Mağlubiyet
+2017-2018;849500000;113880000;Manchester United;CSKA Moskva;Old Trafford;74669;2;1;Galibiyet
+2017-2018;811850000;123880000;Bayern München;RSC Anderlecht;Allianz Arena;70000;3;0;Galibiyet
+2017-2018;77480000;900010000;Celtic FC;Paris Saint-Germain;Celtic Park;57562;0;5;Mağlubiyet
+2017-2018;900010000;811850000;Paris Saint-Germain;Bayern München;Parc des Princes;46252;3;0;Galibiyet
+2017-2018;123880000;77480000;RSC Anderlecht;Celtic FC;Lotto Park;19898;0;3;Mağlubiyet
+2017-2018;123880000;900010000;RSC Anderlecht;Paris Saint-Germain;Lotto Park;19108;0;4;Mağlubiyet
+2017-2018;811850000;77480000;Bayern München;Celtic FC;Allianz Arena;70000;3;0;Galibiyet
+2017-2018;900010000;123880000;Paris Saint-Germain;RSC Anderlecht;Parc des Princes;46403;5;0;Galibiyet
+2017-2018;77480000;811850000;Celtic FC;Bayern München;Celtic Park;58269;1;2;Mağlubiyet
+2017-2018;123880000;811850000;RSC Anderlecht;Bayern München;Lotto Park;19753;1;2;Mağlubiyet
+2017-2018;900010000;77480000;Paris Saint-Germain;Celtic FC;Parc des Princes;46288;7;1;Galibiyet
+2017-2018;811850000;900010000;Bayern München;Paris Saint-Germain;Allianz Arena;70000;3;1;Galibiyet
+2017-2018;77480000;123880000;Celtic FC;RSC Anderlecht;Celtic Park;57931;0;1;Mağlubiyet
+2017-2018;469100000;711150000;AS Roma;Atlético Madrid;Olimpico;36064;0;0;Beraberlik
+2017-2018;884250000;16950000;Chelsea FC;Qarabağ FK;Stamford Bridge;41150;6;0;Galibiyet
+2017-2018;16950000;469100000;Qarabağ FK;AS Roma;Baku National Stadium;67200;1;2;Mağlubiyet
+2017-2018;711150000;884250000;Atlético Madrid;Chelsea FC;Wanda Metropolitano;60643;1;2;Mağlubiyet
+2017-2018;16950000;711150000;Qarabağ FK;Atlético Madrid;Baku National Stadium;47923;0;0;Beraberlik
+2017-2018;884250000;469100000;Chelsea FC;AS Roma;Stamford Bridge;41105;3;3;Beraberlik
+2017-2018;469100000;884250000;AS Roma;Chelsea FC;Olimpico;55036;3;0;Galibiyet
+2017-2018;711150000;16950000;Atlético Madrid;Qarabağ FK;Wanda Metropolitano;55893;1;1;Beraberlik
+2017-2018;16950000;884250000;Qarabağ FK;Chelsea FC;Baku National Stadium;67100;0;4;Mağlubiyet
+2017-2018;711150000;469100000;Atlético Madrid;AS Roma;Wanda Metropolitano;56253;2;0;Galibiyet
+2017-2018;884250000;711150000;Chelsea FC;Atlético Madrid;Stamford Bridge;40875;1;1;Beraberlik
+2017-2018;469100000;16950000;AS Roma;Qarabağ FK;Olimpico;34258;1;0;Galibiyet
+2017-2018;1090000000;653150000;FC Barcelona;Juventus;Spotify Camp Nou;78656;3;0;Galibiyet
+2017-2018;96100000;259080000;Olympiakos Piraeus;Sporting CP;Georgios Karaiskakis;30168;2;3;Mağlubiyet
+2017-2018;653150000;96100000;Juventus;Olympiakos Piraeus;Allianz Stadium;33460;2;0;Galibiyet
+2017-2018;259080000;1090000000;Sporting CP;FC Barcelona;Estádio José Alvalade;48575;0;1;Mağlubiyet
+2017-2018;1090000000;96100000;FC Barcelona;Olympiakos Piraeus;Spotify Camp Nou;55026;3;1;Galibiyet
+2017-2018;653150000;259080000;Juventus;Sporting CP;Allianz Stadium;36288;2;1;Galibiyet
+2017-2018;96100000;1090000000;Olympiakos Piraeus;FC Barcelona;Georgios Karaiskakis;31600;0;0;Beraberlik
+2017-2018;259080000;653150000;Sporting CP;Juventus;Estádio José Alvalade;48442;1;1;Beraberlik
+2017-2018;653150000;1090000000;Juventus;FC Barcelona;Allianz Stadium;40876;0;0;Beraberlik
+2017-2018;259080000;96100000;Sporting CP;Olympiakos Piraeus;Estádio José Alvalade;42528;3;1;Galibiyet
+2017-2018;1090000000;259080000;FC Barcelona;Sporting CP;Spotify Camp Nou;48336;2;0;Galibiyet
+2017-2018;96100000;653150000;Olympiakos Piraeus;Juventus;Georgios Karaiskakis;29567;0;2;Mağlubiyet
+2017-2018;857500000;253200000;Liverpool FC;Sevilla FC;Anfield;52332;2;2;Beraberlik
+2017-2018;15830000;132350000;NK Maribor;Spartak Moskva;Ljudski vrt;12566;1;1;Beraberlik
+2017-2018;132350000;857500000;Spartak Moskva;Liverpool FC;Otkrytie Arena;43376;1;1;Beraberlik
+2017-2018;253200000;15830000;Sevilla FC;NK Maribor;Ramón Sánchez Pizjuán;34705;3;0;Galibiyet
+2017-2018;132350000;253200000;Spartak Moskva;Sevilla FC;Otkrytie Arena;44307;5;1;Galibiyet
+2017-2018;15830000;857500000;NK Maribor;Liverpool FC;Ljudski vrt;12506;0;7;Mağlubiyet
+2017-2018;253200000;132350000;Sevilla FC;Spartak Moskva;Ramón Sánchez Pizjuán;38002;2;1;Galibiyet
+2017-2018;857500000;15830000;Liverpool FC;NK Maribor;Anfield;47957;3;0;Galibiyet
+2017-2018;132350000;15830000;Spartak Moskva;NK Maribor;Otkrytie Arena;42920;1;1;Beraberlik
+2017-2018;253200000;857500000;Sevilla FC;Liverpool FC;Ramón Sánchez Pizjuán;39495;3;3;Beraberlik
+2017-2018;857500000;132350000;Liverpool FC;Spartak Moskva;Anfield;48779;7;0;Galibiyet
+2017-2018;15830000;253200000;NK Maribor;Sevilla FC;Ljudski vrt;11976;1;1;Beraberlik
+2017-2018;142900000;504250000;Shakhtar Donetsk;SSC Napoli;Metalist Stadion;32679;2;1;Galibiyet
+2017-2018;104200000;1001000000;Feyenoord;Manchester City;De Kuip;43500;0;4;Mağlubiyet
+2017-2018;1001000000;142900000;Manchester City;Shakhtar Donetsk;Etihad Stadium;45310;2;0;Galibiyet
+2017-2018;504250000;104200000;SSC Napoli;Feyenoord;Diego Maradona;22577;3;1;Galibiyet
+2017-2018;1001000000;504250000;Manchester City;SSC Napoli;Etihad Stadium;48520;2;1;Galibiyet
+2017-2018;104200000;142900000;Feyenoord;Shakhtar Donetsk;De Kuip;43500;1;2;Mağlubiyet
+2017-2018;504250000;1001000000;SSC Napoli;Manchester City;Diego Maradona;44483;2;4;Mağlubiyet
+2017-2018;142900000;104200000;Shakhtar Donetsk;Feyenoord;Metalist Stadion;24570;3;1;Galibiyet
+2017-2018;504250000;142900000;SSC Napoli;Shakhtar Donetsk;Diego Maradona;10573;3;0;Galibiyet
+2017-2018;1001000000;104200000;Manchester City;Feyenoord;Etihad Stadium;43548;1;0;Galibiyet
+2017-2018;142900000;1001000000;Shakhtar Donetsk;Manchester City;Metalist Stadion;33154;2;1;Galibiyet
+2017-2018;104200000;504250000;Feyenoord;SSC Napoli;De Kuip;36500;2;1;Galibiyet
+2017-2018;276500000;122550000;FC Porto;Beşiktaş;Estádio do Dragão;42429;1;3;Mağlubiyet
+2017-2018;373300000;529800000;RB Leipzig;AS Monaco;Red Bull Arena;40068;1;1;Beraberlik
+2017-2018;529800000;276500000;AS Monaco;FC Porto;Stade Louis II;11703;0;3;Mağlubiyet
+2017-2018;122550000;373300000;Beşiktaş;RB Leipzig;Vodafone Park;36641;2;0;Galibiyet
+2017-2018;529800000;122550000;AS Monaco;Beşiktaş;Stade Louis II;7403;1;2;Mağlubiyet
+2017-2018;373300000;276500000;RB Leipzig;FC Porto;Red Bull Arena;41496;3;2;Galibiyet
+2017-2018;122550000;529800000;Beşiktaş;AS Monaco;Vodafone Park;39346;1;1;Beraberlik
+2017-2018;276500000;373300000;FC Porto;RB Leipzig;Estádio do Dragão;41616;3;1;Galibiyet
+2017-2018;122550000;276500000;Beşiktaş;FC Porto;Vodafone Park;36919;1;1;Beraberlik
+2017-2018;529800000;373300000;AS Monaco;RB Leipzig;Stade Louis II;9029;1;4;Mağlubiyet
+2017-2018;276500000;529800000;FC Porto;AS Monaco;Estádio do Dragão;42509;5;2;Galibiyet
+2017-2018;373300000;122550000;RB Leipzig;Beşiktaş;Red Bull Arena;42558;1;2;Mağlubiyet
+2017-2018;829600000;574200000;Tottenham Hotspur;Borussia Dortmund;Wembley Stadium;67343;3;1;Galibiyet
+2017-2018;955350000;26100000;Real Madrid;APOEL Nikosia;Santiago Bernabéu;71060;3;0;Galibiyet
+2017-2018;574200000;955350000;Borussia Dortmund;Real Madrid;Signal Iduna Park;65849;1;3;Mağlubiyet
+2017-2018;26100000;829600000;APOEL Nikosia;Tottenham Hotspur;Neo GSP Stadium;16324;0;3;Mağlubiyet
+2017-2018;955350000;829600000;Real Madrid;Tottenham Hotspur;Santiago Bernabéu;76589;1;1;Beraberlik
+2017-2018;26100000;574200000;APOEL Nikosia;Borussia Dortmund;Neo GSP Stadium;15604;1;1;Beraberlik
+2017-2018;829600000;955350000;Tottenham Hotspur;Real Madrid;Wembley Stadium;83782;3;1;Galibiyet
+2017-2018;574200000;26100000;Borussia Dortmund;APOEL Nikosia;Signal Iduna Park;64509;1;1;Beraberlik
+2017-2018;574200000;829600000;Borussia Dortmund;Tottenham Hotspur;Signal Iduna Park;65849;1;2;Mağlubiyet
+2017-2018;26100000;955350000;APOEL Nikosia;Real Madrid;Neo GSP Stadium;19705;0;6;Mağlubiyet
+2017-2018;955350000;574200000;Real Madrid;Borussia Dortmund;Santiago Bernabéu;73323;3;2;Galibiyet
+2017-2018;829600000;26100000;Tottenham Hotspur;APOEL Nikosia;Wembley Stadium;42679;3;0;Galibiyet
+2017-2018;653150000;829600000;Juventus;Tottenham Hotspur;Allianz Stadium;41232;2;2;Beraberlik
+2017-2018;90700000;1001000000;FC Basel;Manchester City;St. Jakob-Park;36000;0;4;Mağlubiyet
+2017-2018;276500000;857500000;FC Porto;Liverpool FC;Estádio do Dragão;47718;0;5;Mağlubiyet
+2017-2018;955350000;900010000;Real Madrid;Paris Saint-Germain;Santiago Bernabéu;78158;3;1;Galibiyet
+2017-2018;884250000;1090000000;Chelsea FC;FC Barcelona;Stamford Bridge;37741;1;1;Beraberlik
+2017-2018;811850000;122550000;Bayern München;Beşiktaş;Allianz Arena;70000;5;0;Galibiyet
+2017-2018;253200000;849500000;Sevilla FC;Manchester United;Ramón Sánchez Pizjuán;39725;0;0;Beraberlik
+2017-2018;142900000;469100000;Shakhtar Donetsk;AS Roma;Metalist Stadion;35124;2;1;Galibiyet
+2017-2018;857500000;276500000;Liverpool FC;FC Porto;Anfield;48768;0;0;Beraberlik
+2017-2018;900010000;955350000;Paris Saint-Germain;Real Madrid;Parc des Princes;46585;1;2;Mağlubiyet
+2017-2018;829600000;653150000;Tottenham Hotspur;Juventus;Wembley Stadium;84010;1;2;Mağlubiyet
+2017-2018;1001000000;90700000;Manchester City;FC Basel;Etihad Stadium;49411;1;2;Mağlubiyet
+2017-2018;849500000;253200000;Manchester United;Sevilla FC;Old Trafford;74909;1;2;Mağlubiyet
+2017-2018;469100000;142900000;AS Roma;Shakhtar Donetsk;Olimpico;47693;1;0;Galibiyet
+2017-2018;122550000;811850000;Beşiktaş;Bayern München;Vodafone Park;36885;1;3;Mağlubiyet
+2017-2018;1090000000;884250000;FC Barcelona;Chelsea FC;Spotify Camp Nou;97183;3;0;Galibiyet
+2017-2018;253200000;811850000;Sevilla FC;Bayern München;Ramón Sánchez Pizjuán;40635;1;2;Mağlubiyet
+2017-2018;653150000;955350000;Juventus;Real Madrid;Allianz Stadium;40849;0;3;Mağlubiyet
+2017-2018;1090000000;469100000;FC Barcelona;AS Roma;Spotify Camp Nou;90106;4;1;Galibiyet
+2017-2018;857500000;1001000000;Liverpool FC;Manchester City;Anfield;50685;3;0;Galibiyet
+2017-2018;469100000;1090000000;AS Roma;FC Barcelona;Olimpico;56580;3;0;Galibiyet
+2017-2018;1001000000;857500000;Manchester City;Liverpool FC;Etihad Stadium;53461;1;2;Mağlubiyet
+2017-2018;811850000;253200000;Bayern München;Sevilla FC;Allianz Arena;70000;0;0;Beraberlik
+2017-2018;955350000;653150000;Real Madrid;Juventus;Santiago Bernabéu;75796;1;3;Mağlubiyet
+2017-2018;857500000;469100000;Liverpool FC;AS Roma;Anfield;51236;5;2;Galibiyet
+2017-2018;811850000;955350000;Bayern München;Real Madrid;Allianz Arena;70000;1;2;Mağlubiyet
+2017-2018;955350000;811850000;Real Madrid;Bayern München;Santiago Bernabéu;77459;2;2;Beraberlik
+2017-2018;469100000;857500000;AS Roma;Liverpool FC;Olimpico;61889;4;2;Galibiyet
+2017-2018;955350000;857500000;Real Madrid;Liverpool FC;Olimpiyskyi;61561;3;1;Galibiyet
+2016-2017;60850000;60580000;FC Basel;PFC Ludogorets Razgrad;St. Jakob-Park;30852;1;1;Beraberlik
+2016-2017;519000000;542000000;Paris Saint-Germain;Arsenal FC;Parc des Princes;46440;1;1;Beraberlik
+2016-2017;542000000;60850000;Arsenal FC;FC Basel;Emirates Stadium;59993;2;0;Galibiyet
+2016-2017;60580000;519000000;PFC Ludogorets Razgrad;Paris Saint-Germain;Vasil Levski;17155;1;3;Mağlubiyet
+2016-2017;542000000;60580000;Arsenal FC;PFC Ludogorets Razgrad;Emirates Stadium;59944;6;0;Galibiyet
+2016-2017;519000000;60850000;Paris Saint-Germain;FC Basel;Parc des Princes;46488;3;0;Galibiyet
+2016-2017;60850000;519000000;FC Basel;Paris Saint-Germain;St. Jakob-Park;34639;1;2;Mağlubiyet
+2016-2017;60580000;542000000;PFC Ludogorets Razgrad;Arsenal FC;Vasil Levski;30862;2;3;Mağlubiyet
+2016-2017;542000000;519000000;Arsenal FC;Paris Saint-Germain;Emirates Stadium;59628;2;2;Beraberlik
+2016-2017;60580000;60850000;PFC Ludogorets Razgrad;FC Basel;Vasil Levski;20821;0;0;Beraberlik
+2016-2017;60850000;542000000;FC Basel;Arsenal FC;St. Jakob-Park;36000;1;4;Mağlubiyet
+2016-2017;519000000;60580000;Paris Saint-Germain;PFC Ludogorets Razgrad;Parc des Princes;42650;2;2;Beraberlik
+2016-2017;127600000;387380000;Dinamo Kiev;SSC Napoli;Olimpiyskyi;35137;1;2;Mağlubiyet
+2016-2017;249200000;136800000;SL Benfica;Beşiktaş;Estádio da Luz;42126;1;1;Beraberlik
+2016-2017;136800000;127600000;Beşiktaş;Dinamo Kiev;Vodafone Park;33938;1;1;Beraberlik
+2016-2017;387380000;249200000;SSC Napoli;SL Benfica;Diego Maradona;41281;4;2;Galibiyet
+2016-2017;127600000;249200000;Dinamo Kiev;SL Benfica;Olimpiyskyi;25991;0;2;Mağlubiyet
+2016-2017;387380000;136800000;SSC Napoli;Beşiktaş;Diego Maradona;28502;2;3;Mağlubiyet
+2016-2017;136800000;387380000;Beşiktaş;SSC Napoli;Vodafone Park;35552;1;1;Beraberlik
+2016-2017;249200000;127600000;SL Benfica;Dinamo Kiev;Estádio da Luz;51641;1;0;Galibiyet
+2016-2017;136800000;249200000;Beşiktaş;SL Benfica;Vodafone Park;36063;3;3;Beraberlik
+2016-2017;387380000;127600000;SSC Napoli;Dinamo Kiev;Diego Maradona;33736;0;0;Beraberlik
+2016-2017;127600000;136800000;Dinamo Kiev;Beşiktaş;Olimpiyskyi;14036;6;0;Galibiyet
+2016-2017;249200000;387380000;SL Benfica;SSC Napoli;Estádio da Luz;55634;1;2;Mağlubiyet
+2016-2017;765300000;67980000;FC Barcelona;Celtic FC;Spotify Camp Nou;73290;7;0;Galibiyet
+2016-2017;576500000;162180000;Manchester City;Bor. Mönchengladbach;Etihad Stadium;30270;4;0;Galibiyet
+2016-2017;162180000;765300000;Bor. Mönchengladbach;FC Barcelona;Borussia-Park;46283;1;2;Mağlubiyet
+2016-2017;67980000;576500000;Celtic FC;Manchester City;Celtic Park;57592;3;3;Beraberlik
+2016-2017;67980000;162180000;Celtic FC;Bor. Mönchengladbach;Celtic Park;57814;0;2;Mağlubiyet
+2016-2017;765300000;576500000;FC Barcelona;Manchester City;Spotify Camp Nou;96290;4;0;Galibiyet
+2016-2017;162180000;67980000;Bor. Mönchengladbach;Celtic FC;Borussia-Park;46283;1;1;Beraberlik
+2016-2017;576500000;765300000;Manchester City;FC Barcelona;Etihad Stadium;53340;3;1;Galibiyet
+2016-2017;162180000;576500000;Bor. Mönchengladbach;Manchester City;Borussia-Park;45921;1;1;Beraberlik
+2016-2017;67980000;765300000;Celtic FC;FC Barcelona;Celtic Park;57937;0;2;Mağlubiyet
+2016-2017;765300000;162180000;FC Barcelona;Bor. Mönchengladbach;Spotify Camp Nou;67157;4;0;Galibiyet
+2016-2017;576500000;67980000;Manchester City;Celtic FC;Etihad Stadium;51297;1;1;Beraberlik
+2016-2017;562550000;62450000;Bayern München;FK Rostov;Allianz Arena;70000;5;0;Galibiyet
+2016-2017;126600000;515800000;PSV Eindhoven;Atlético Madrid;Philips Stadion;33989;0;1;Mağlubiyet
+2016-2017;515800000;562550000;Atlético Madrid;Bayern München;Vicente Calderón;48242;1;0;Galibiyet
+2016-2017;62450000;126600000;FK Rostov;PSV Eindhoven;Olimp – 2;12646;2;2;Beraberlik
+2016-2017;562550000;126600000;Bayern München;PSV Eindhoven;Allianz Arena;70000;4;1;Galibiyet
+2016-2017;62450000;515800000;FK Rostov;Atlético Madrid;Olimp – 2;15400;0;1;Mağlubiyet
+2016-2017;515800000;62450000;Atlético Madrid;FK Rostov;Vicente Calderón;40392;2;1;Galibiyet
+2016-2017;126600000;562550000;PSV Eindhoven;Bayern München;Philips Stadion;35000;1;2;Mağlubiyet
+2016-2017;62450000;562550000;FK Rostov;Bayern München;Olimp – 2;15211;3;2;Galibiyet
+2016-2017;515800000;126600000;Atlético Madrid;PSV Eindhoven;Vicente Calderón;37891;2;0;Galibiyet
+2016-2017;562550000;515800000;Bayern München;Atlético Madrid;Allianz Arena;70000;1;0;Galibiyet
+2016-2017;126600000;62450000;PSV Eindhoven;FK Rostov;Philips Stadion;33400;0;0;Beraberlik
+2016-2017;265030000;96000000;Bayer Leverkusen;CSKA Moskva;BayArena;23459;2;2;Beraberlik
+2016-2017;543650000;309550000;Tottenham Hotspur;AS Monaco;Wembley Stadium;85011;1;2;Mağlubiyet
+2016-2017;309550000;265030000;AS Monaco;Bayer Leverkusen;Stade Louis II;8100;1;1;Beraberlik
+2016-2017;96000000;543650000;CSKA Moskva;Tottenham Hotspur;Arena Khimki;26153;0;1;Mağlubiyet
+2016-2017;265030000;543650000;Bayer Leverkusen;Tottenham Hotspur;BayArena;28887;0;0;Beraberlik
+2016-2017;96000000;309550000;CSKA Moskva;AS Monaco;VEB Arena;24125;1;1;Beraberlik
+2016-2017;309550000;96000000;AS Monaco;CSKA Moskva;Stade Louis II;10029;3;0;Galibiyet
+2016-2017;543650000;265030000;Tottenham Hotspur;Bayer Leverkusen;Wembley Stadium;85512;0;1;Mağlubiyet
+2016-2017;96000000;265030000;CSKA Moskva;Bayer Leverkusen;VEB Arena;19164;1;1;Beraberlik
+2016-2017;309550000;543650000;AS Monaco;Tottenham Hotspur;Stade Louis II;13100;2;1;Galibiyet
+2016-2017;265030000;309550000;Bayer Leverkusen;AS Monaco;BayArena;21928;3;0;Galibiyet
+2016-2017;543650000;96000000;Tottenham Hotspur;CSKA Moskva;Wembley Stadium;62034;3;1;Galibiyet
+2016-2017;50230000;390650000;Legia Warszawa;Borussia Dortmund;Stadion Wojska Polskiego;27304;0;6;Mağlubiyet
+2016-2017;802900000;258700000;Real Madrid;Sporting CP;Santiago Bernabéu;72179;2;1;Galibiyet
+2016-2017;390650000;802900000;Borussia Dortmund;Real Madrid;Signal Iduna Park;65849;2;2;Beraberlik
+2016-2017;258700000;50230000;Sporting CP;Legia Warszawa;Estádio José Alvalade;40094;2;0;Galibiyet
+2016-2017;802900000;50230000;Real Madrid;Legia Warszawa;Santiago Bernabéu;70251;5;1;Galibiyet
+2016-2017;258700000;390650000;Sporting CP;Borussia Dortmund;Estádio José Alvalade;46609;1;2;Mağlubiyet
+2016-2017;390650000;258700000;Borussia Dortmund;Sporting CP;Signal Iduna Park;65849;1;0;Galibiyet
+2016-2017;50230000;802900000;Legia Warszawa;Real Madrid;Stadion Wojska Polskiego;0;3;3;Beraberlik
+2016-2017;390650000;50230000;Borussia Dortmund;Legia Warszawa;Signal Iduna Park;55094;8;4;Galibiyet
+2016-2017;258700000;802900000;Sporting CP;Real Madrid;Estádio José Alvalade;50046;1;2;Mağlubiyet
+2016-2017;50230000;258700000;Legia Warszawa;Sporting CP;Stadion Wojska Polskiego;28232;1;0;Galibiyet
+2016-2017;802900000;390650000;Real Madrid;Borussia Dortmund;Santiago Bernabéu;76894;2;2;Beraberlik
+2016-2017;117750000;218650000;Club Brugge KV;Leicester City;Jan Breydel Stadion;20970;0;3;Mağlubiyet
+2016-2017;205250000;41650000;FC Porto;FC København;Estádio do Dragão;34325;1;1;Beraberlik
+2016-2017;41650000;117750000;FC København;Club Brugge KV;Telia Parken;25605;4;0;Galibiyet
+2016-2017;218650000;205250000;Leicester City;FC Porto;King Power Stadium;31805;1;0;Galibiyet
+2016-2017;117750000;205250000;Club Brugge KV;FC Porto;Jan Breydel Stadion;23325;1;2;Mağlubiyet
+2016-2017;218650000;41650000;Leicester City;FC København;King Power Stadium;31037;1;0;Galibiyet
+2016-2017;41650000;218650000;FC København;Leicester City;Telia Parken;34146;0;0;Beraberlik
+2016-2017;205250000;117750000;FC Porto;Club Brugge KV;Estádio do Dragão;32310;1;0;Galibiyet
+2016-2017;41650000;205250000;FC København;FC Porto;Telia Parken;32036;0;0;Beraberlik
+2016-2017;218650000;117750000;Leicester City;Club Brugge KV;King Power Stadium;31443;2;1;Galibiyet
+2016-2017;117750000;41650000;Club Brugge KV;FC København;Jan Breydel Stadion;18981;0;2;Mağlubiyet
+2016-2017;205250000;218650000;FC Porto;Leicester City;Estádio do Dragão;39310;5;0;Galibiyet
+2016-2017;497180000;270100000;Juventus;Sevilla FC;Allianz Stadium;33261;0;0;Beraberlik
+2016-2017;211350000;97200000;Olympique Lyon;Dinamo Zagreb;Groupama Stadium;43754;3;0;Galibiyet
+2016-2017;97200000;497180000;Dinamo Zagreb;Juventus;Maksimir;23875;0;4;Mağlubiyet
+2016-2017;270100000;211350000;Sevilla FC;Olympique Lyon;Ramón Sánchez Pizjuán;36741;1;0;Galibiyet
+2016-2017;97200000;270100000;Dinamo Zagreb;Sevilla FC;Maksimir;6021;0;1;Mağlubiyet
+2016-2017;211350000;497180000;Olympique Lyon;Juventus;Groupama Stadium;53907;0;1;Mağlubiyet
+2016-2017;497180000;211350000;Juventus;Olympique Lyon;Allianz Stadium;40356;1;1;Beraberlik
+2016-2017;270100000;97200000;Sevilla FC;Dinamo Zagreb;Ramón Sánchez Pizjuán;35215;4;0;Galibiyet
+2016-2017;97200000;211350000;Dinamo Zagreb;Olympique Lyon;Maksimir;7834;0;1;Mağlubiyet
+2016-2017;270100000;497180000;Sevilla FC;Juventus;Ramón Sánchez Pizjuán;38942;1;3;Mağlubiyet
+2016-2017;497180000;97200000;Juventus;Dinamo Zagreb;Allianz Stadium;39380;2;0;Galibiyet
+2016-2017;211350000;270100000;Olympique Lyon;Sevilla FC;Groupama Stadium;52423;0;0;Beraberlik
+2016-2017;249200000;390650000;SL Benfica;Borussia Dortmund;Estádio da Luz;55124;1;0;Galibiyet
+2016-2017;519000000;765300000;Paris Saint-Germain;FC Barcelona;Parc des Princes;46484;4;0;Galibiyet
+2016-2017;802900000;387380000;Real Madrid;SSC Napoli;Santiago Bernabéu;78000;3;1;Galibiyet
+2016-2017;562550000;542000000;Bayern München;Arsenal FC;Allianz Arena;70000;5;1;Galibiyet
+2016-2017;576500000;309550000;Manchester City;AS Monaco;Etihad Stadium;53351;5;3;Galibiyet
+2016-2017;265030000;515800000;Bayer Leverkusen;Atlético Madrid;BayArena;29300;2;4;Mağlubiyet
+2016-2017;205250000;497180000;FC Porto;Juventus;Estádio do Dragão;49229;0;2;Mağlubiyet
+2016-2017;270100000;218650000;Sevilla FC;Leicester City;Ramón Sánchez Pizjuán;38834;2;1;Galibiyet
+2016-2017;387380000;802900000;SSC Napoli;Real Madrid;Diego Maradona;56695;1;3;Mağlubiyet
+2016-2017;542000000;562550000;Arsenal FC;Bayern München;Emirates Stadium;59911;1;5;Mağlubiyet
+2016-2017;390650000;249200000;Borussia Dortmund;SL Benfica;Signal Iduna Park;65849;4;0;Galibiyet
+2016-2017;765300000;519000000;FC Barcelona;Paris Saint-Germain;Spotify Camp Nou;96290;6;1;Galibiyet
+2016-2017;497180000;205250000;Juventus;FC Porto;Allianz Stadium;41161;1;0;Galibiyet
+2016-2017;218650000;270100000;Leicester City;Sevilla FC;King Power Stadium;31520;2;0;Galibiyet
+2016-2017;309550000;576500000;AS Monaco;Manchester City;Stade Louis II;15700;3;1;Galibiyet
+2016-2017;515800000;265030000;Atlético Madrid;Bayer Leverkusen;Vicente Calderón;49133;0;0;Beraberlik
+2016-2017;497180000;765300000;Juventus;FC Barcelona;Allianz Stadium;41092;3;0;Galibiyet
+2016-2017;390650000;309550000;Borussia Dortmund;AS Monaco;Signal Iduna Park;65849;2;3;Mağlubiyet
+2016-2017;515800000;218650000;Atlético Madrid;Leicester City;Vicente Calderón;51423;1;0;Galibiyet
+2016-2017;562550000;802900000;Bayern München;Real Madrid;Allianz Arena;70000;1;2;Mağlubiyet
+2016-2017;218650000;515800000;Leicester City;Atlético Madrid;King Power Stadium;31548;1;1;Beraberlik
+2016-2017;802900000;562550000;Real Madrid;Bayern München;Santiago Bernabéu;78346;4;2;Galibiyet
+2016-2017;765300000;497180000;FC Barcelona;Juventus;Spotify Camp Nou;96290;0;0;Beraberlik
+2016-2017;309550000;390650000;AS Monaco;Borussia Dortmund;Stade Louis II;17135;3;1;Galibiyet
+2016-2017;802900000;515800000;Real Madrid;Atlético Madrid;Santiago Bernabéu;77609;3;0;Galibiyet
+2016-2017;309550000;497180000;AS Monaco;Juventus;Stade Louis II;16762;0;2;Mağlubiyet
+2016-2017;497180000;309550000;Juventus;AS Monaco;Allianz Stadium;40244;2;1;Galibiyet
+2016-2017;515800000;802900000;Atlético Madrid;Real Madrid;Vicente Calderón;53422;2;1;Galibiyet
+2016-2017;497180000;802900000;Juventus;Real Madrid;Millennium;65842;1;4;Mağlubiyet
